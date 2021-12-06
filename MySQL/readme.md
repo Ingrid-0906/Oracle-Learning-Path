@@ -19,7 +19,7 @@ This learning path covers:
     Troubleshooting in MySQL
 
 Goal:
-Pass Assentment (80%)
+Pass Assessment (84%)
 
 Status:
 Completed.
