@@ -23,5 +23,3 @@ Pass Assessment (84%)
 
 Status:
 Completed.
-
-Dez, 06, 2021 - 15:42pm
